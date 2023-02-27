@@ -31,6 +31,11 @@
   font-size: 4em;
 }
 
+.hover-logo :hover {
+  color: #8a8a8a;
+  transform: scale(1.2);
+}
+
 /* media breakpoints */
 
 @media (min-width: 1400px) {
@@ -313,7 +318,7 @@
 }
 
 .hth {
-  max-height: 300px;
+  max-height: 500px;
 }
 
 .boton {
